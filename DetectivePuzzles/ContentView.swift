@@ -80,8 +80,9 @@ struct ContentView: View {
                             generateResponse()
                         }) {
                             Text(suspect)
+                           
                         }
-                    }
+                    }.frame(height: 270)
                 }
                 
                 Button("Exit to main menu") {
@@ -90,7 +91,7 @@ struct ContentView: View {
                     isCorrectGuess = nil
                     showOptions = true
                     userPrompt = "Create a short crime scenario with 5 suspects. And give me answers consisting of A, B, C, D, E. After you ask me, I will give you one of these options as an answer. After you give it tell me if I chose the correct answer"
-                }.font(.title3).bold()
+                }.font(.title2).bold().foregroundColor(.red)
             }
         }
         .padding()
