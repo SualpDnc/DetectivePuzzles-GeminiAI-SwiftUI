@@ -11,9 +11,5 @@ Xcode: For development and testing.
    <img width="314" alt="Ekran Resmi 2024-08-14 16 52 33" src="https://github.com/user-attachments/assets/24e95166-b142-45c9-a0a6-a6858559c486">
 </p> 
 
-🎮 How to Play
-Start a New Game: Click the "Get a detective scenario!" button to receive a new crime scenario.
-Analyze the Clues: Carefully read the scenario and consider the evidence provided.
-Make Your Guess: Choose the suspect you believe is the real culprit.
-Get Feedback: The AI will tell you if your guess was correct.
-Play Again: Click "Exit to main menu" to start a new scenario.
+
+
